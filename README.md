@@ -1,1 +1,0 @@
-# vSphere-Environment-Growth-Content.zip
